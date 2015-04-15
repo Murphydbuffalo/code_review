@@ -1,0 +1,11 @@
+{
+  "browser" : true,
+  "eqnull" : true,
+  "esnext" : true,
+  "latedef" : true,
+  "maxparams" : 4,
+  "mocha" : true,
+  "node" : true,
+  "undef" : true,
+  "unused" : "vars"
+}
