@@ -1,0 +1,14 @@
+{
+  "name": "PairingParty",
+  "version": "1.0.0",
+  "description": "Pair all devs up for code review, ya heard?",
+  "main": "pairing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Murphy",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.1.9"
+  }
+}
