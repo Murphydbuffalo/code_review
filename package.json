@@ -4,6 +4,7 @@
   "description": "Pair all devs up for code review, ya heard?",
   "main": "pairing.js",
   "scripts": {
+    "start": "node_modules/babel/bin/babel-node pairing.js Dan Dave Richard Maria Alex",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dan Murphy",
