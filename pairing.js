@@ -35,7 +35,7 @@ for(let i = 0; i < namesCount; i++) {
     i += 2;
 
   } else {
-    console.log(`${names[i]} and ${names[i + 1]} will review each others' code.`);
+    console.log(`${names[i]} and ${names[i + 1]} will review each other's code.`);
 
     i++;
   }
